@@ -1,0 +1,136 @@
+body{
+  background-image: url(images/meee.png);
+  /* background-repeat: no-repeat; */
+  /* overflow :hidden; */
+  /* background-size: auto; */
+  /* padding-left: 0; */
+}
+.nav-link{
+  font-size: 1.5rem;
+  color:black;
+  font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+.info{
+  position:absolute;
+  right:20px;
+  padding-top: 5rem;
+}
+.name{
+  position:relative;
+  top:5rem;
+left:2rem;
+  font-family: 'Ubuntu', sans-serif;
+font-weight: bold;
+}
+
+.logo-image{
+  position:absolute;
+  height: 100px;
+  width:  100px;
+  left:2rem;
+}
+.girl-1{
+  position:relative;
+  top:2rem;
+  width:30%;
+}
+.slogan{
+  position:absolute;
+    top:200px;
+    right:400px;
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+color:black;
+font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+p{
+  font-family: 'Montserrat', sans-serif;
+color:black;
+font-weight: 500;
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+.slogan-info{
+  position:absolute;
+    top:350px;
+    right:301px;
+}
+.join{
+  position:absolute;
+  right: 760px;
+}
+.social ul li{
+  margin-top:-15px;
+    display: block;
+    float:right;
+    clear:right;
+    margin: 5px;
+    background: white;
+    width: 50px;
+    padding: 10px;
+    border-radius: 30px 0 0 30px;
+}
+
+.blog-heading{
+  text-align: center;
+  padding-top: 4rem;
+  font-weight: 500;
+}
+
+.form{
+  position: absolute;
+  top:100px;
+  left:700px;
+  }
+
+.form-box{
+  height: 500px;
+  width: 400px;
+  background-color: #F49090;
+  opacity: 0.75;
+  padding: 5%;
+  border-radius: 20px 20px 20px 20px;
+  box-shadow: 10px 10px 5px black;
+}
+
+.join-now{
+  margin-top: 1rem;
+}
+.join-now-btn{
+  width: 325px;
+}
+.sign{
+  text-align: center;
+}
+.navbar-blog{
+  position:absolute;
+  right:150px;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+.details{
+  /* position: relative */
+  /* top:300px; */
+  /* left:200px; */
+  height: 400px;
+  width: 300px;
+  text-align: center;
+  background-color: #F49090;
+  padding: 5%;
+  margin: 3% 7% 3% 7%;
+  border-radius: 20px 20px 20px 20px;
+  box-shadow: 10px 10px 5px black;
+}
+.student-image{
+  border-radius: 100%;
+ width:50%;
+ height: 30%;
+}
