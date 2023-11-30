@@ -1,2 +1,3 @@
-# learning
-kudos ,finally learnt how to connect the local repository to remote repository.
+# codivas ( only women organization)
+worked as an intern and was able to replicate the whole user interface of the website. 
+https://codivas.netlify.app/
